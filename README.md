@@ -1,10 +1,10 @@
 👋 Hello, I'm Natnael!<br>
 I'm a tech enthusiast with a passion for coding and problem-solving. Here's a bit about me:<br>
 
-🏅 Certifications<br>
-🎓 Programming Skills - Udacity<br>
+## 🏅 Certifications
+- 🎓 [Programming Fundamentals Certificate](certificates/programming_fundamentals.pdf)
+- 📊 [Data Analysis Certificate](certificates/data_analysis.pdf)
 
-📊 Data Analysis - Udacity<br>
 
 💻 Experience
 🌐 Worked on website development projects.<br>
