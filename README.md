@@ -2,8 +2,8 @@
 I'm a tech enthusiast with a passion for coding and problem-solving. Here's a bit about me:<br>
 
 ## 🏅 Certifications
-- 🎓 [Programming Fundamentals Certificate](certificates/programming_fundamentals.pdf)
-- 📊 [Data Analysis Certificate](certificates/data_analysis.pdf)
+- 🎓 [Programming Fundamentals Certificate](certificates/Programming-Fundamentals.pdf)
+- 📊 [Data Analysis Certificate](certificates/Data-Analysis.pdf)
 
 
 💻 Experience
